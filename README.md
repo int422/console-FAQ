@@ -1,4 +1,4 @@
-#console-FAQ
+# console-FAQ
 
 ### Запуск
 ```bash
