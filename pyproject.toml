@@ -3,7 +3,9 @@ name = "console-faq"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "int422",email = "int422@vk.com"}
+    {name = "int422",email = "you@example.com"},
+    {name = "kikyuoo",email = "you@example.com"},
+    {name = "makaroonz",email = "you@example.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
